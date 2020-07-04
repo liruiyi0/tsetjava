@@ -20,4 +20,5 @@ public class TestSpring {
 
     }
     private String name;
+    private int age;
 }
