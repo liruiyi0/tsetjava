@@ -19,4 +19,5 @@ public class TestSpring {
         UserServiceImpl userServicel = (UserServiceImpl)act.getBean("UserServicel");
 
     }
+    private String name;
 }
